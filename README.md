@@ -1,5 +1,6 @@
 home work  12/29/2024
 Questions are 
+
 Solve these questions using for loop
 
 1. print "softwarica" 10 times 
